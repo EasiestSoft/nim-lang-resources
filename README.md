@@ -49,7 +49,7 @@ Personal Blog/Site
 
 - [Peter's DevLog](https://peterme.net/)
 - [moigagoo](https://moigagoo.svbtle.com/)
-- [HookRace - Not recently updated](https://hookrace.net/)
+- [HookRace (Not recently updated)](https://hookrace.net/)
 - [zevv (Author of The Nim memory model)](http://zevv.nl/play/)
 
 Articles
@@ -61,16 +61,30 @@ Articles
 Libraries
 -----------
 
+- Nim compiler related tool
+  - [Nimble - Package manager for Nim](https://github.com/nim-lang/nimble)
+
 - GUI
   - [wNim - Best Win GUI Framework, Win only, VFL auto layout](https://github.com/khchen/wNim)
 
 - Image Processing
   - [Flippy - simple 2d image and drawing library](https://github.com/treeform/flippy)
+  - [imageman - Image manipulation library](https://github.com/SolitudeSF/imageman)
+  - [NimSvg - Nim-based DSL allowing to generate SVG files and GIF animations](https://github.com/bluenote10/NimSvg)
   - [Steganography - hide data inside an image](https://github.com/treeform/steganography)
   - [stb_image-Nim - A Nim wrapper for the stb_image library](https://gitlab.com/define-private-public/stb_image-Nim)
 
-- Video Processing
+- Text Processing
+  - [nim-markdown - Beautiful Markdown Parser](https://github.com/soasme/nim-markdown)
+  - [nimquery - Nim library for querying HTML using CSS-selectors](https://github.com/GULPF/nimquery)
+
+- Video/Audio Processing
+  - [nimBend - turn raw data into audio](https://github.com/jamesb93/nimBend)
   - [Split Video](https://github.com/kodkuce/SplitVideo-Nim)
+
 
 - Internet
   - [Whereami - console application to get your location using ipapi.co](https://github.com/corenting/whereami)
+
+- Find & Search
+  - [ndf - Duplicate file finder](https://github.com/rustomax/ndf)
