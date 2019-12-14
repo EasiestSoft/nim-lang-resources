@@ -24,7 +24,8 @@ Nim Official resources
   - [Forum](https://forum.nim-lang.org/)
   - [Nim Github](https://github.com/nim-lang/Nim)
   - [Curated Packages](https://github.com/nim-lang/Nim/wiki/Curated-Packages)
-  - [Recently updated libraries](https://github.com/search?o=desc&q=nim&l=nim&s=updated&type=Repositories)
+  - [Recently updated github repositories](https://github.com/search?o=desc&q=nim&l=nim&s=updated&type=Repositories)
+  - [Stars:>50 github repositories](https://github.com/search?q=stars%3A%3E50+language%3Anim&type=Repositories)
   - [Nim Reddit](https://www.reddit.com/r/nim/)
 
 
@@ -54,8 +55,8 @@ Personal Blog/Site
 Articles
 ------
 
-- [Nim: Scripting ease in a compiled language 2019-11](https://www.junglecoder.com/blog/nim-early-report)
-- [The Nim memory model](http://zevv.nl/nim-memory/)
+- [Nim: Scripting ease in a compiled language - 2019-11](https://www.junglecoder.com/blog/nim-early-report)
+- [The Nim memory model - 2019-09](http://zevv.nl/nim-memory/)
 
 Libraries
 -----------
