@@ -79,6 +79,7 @@ Libraries
   - [nimquery - Nim library for querying HTML using CSS-selectors](https://github.com/GULPF/nimquery)
 
 - Video/Audio Processing
+  - [Shuffle Recording - For language learning, shuffle silence-separated audio segments to create more challenging recordings](https://github.com/jdve/shuffle_recording)
   - [nimBend - turn raw data into audio](https://github.com/jamesb93/nimBend)
   - [Split Video](https://github.com/kodkuce/SplitVideo-Nim)
 
