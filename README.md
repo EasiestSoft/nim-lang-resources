@@ -69,6 +69,7 @@ Libraries
 
 - Image Processing
   - [Flippy - simple 2d image and drawing library](https://github.com/treeform/flippy)
+  - [diffimg](https://github.com/SolitudeSF/diffimg)
   - [imageman - Image manipulation library](https://github.com/SolitudeSF/imageman)
   - [NimSvg - Nim-based DSL allowing to generate SVG files and GIF animations](https://github.com/bluenote10/NimSvg)
   - [Steganography_tool - hide any typoe of data into an image](https://github.com/EasiestSoft/steganography-software-free-download)
@@ -91,4 +92,5 @@ Libraries
   - [ndf - Duplicate file finder](https://github.com/rustomax/ndf)
 
 - Languages
+  - [min - tiny concatenative programming language and shell](https://github.com/h3rald/min)
   - [Vaja-Lang- dynamic interpreted language inspired by Elixir, Lua, Python, Nim and Monkey](https://github.com/marteinn/Vaja-Lang)
