@@ -78,6 +78,8 @@ Libraries
   - [nim-imghdr - determining the type of an image](https://github.com/achesak/nim-imghdr)
   - [nimagehide - hiding messages or other files in images](https://github.com/MnlPhlp/nimagehide)
   - [img2text - simple web application the returns the text in images](https://github.com/theju/img2text)
+  - [Tile Images - combine images representing a set of learning content into a tiled image](https://github.com/jdve/tile_images)
+  - [arraymancer-vision - image loading, preprocessing and visualization for working with arraymancer - 2017](https://github.com/edubart/arraymancer-vision)
 
 - Text Processing
   - [nim-markdown - Beautiful Markdown Parser](https://github.com/soasme/nim-markdown)
