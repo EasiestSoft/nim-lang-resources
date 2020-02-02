@@ -74,6 +74,10 @@ Libraries
   - [NimSvg - Nim-based DSL allowing to generate SVG files and GIF animations](https://github.com/bluenote10/NimSvg)
   - [Steganography_tool - hide any typoe of data into an image](https://github.com/EasiestSoft/steganography-software-free-download)
   - [stb_image-Nim - A Nim wrapper for the stb_image library](https://gitlab.com/define-private-public/stb_image-Nim)
+  - [Norm - compute the norm of the difference between two images](https://github.com/jonasrauber/norm)
+  - [nim-imghdr - determining the type of an image](https://github.com/achesak/nim-imghdr)
+  - [nimagehide - hiding messages or other files in images](https://github.com/MnlPhlp/nimagehide)
+  - [img2text - simple web application the returns the text in images](https://github.com/theju/img2text)
 
 - Text Processing
   - [nim-markdown - Beautiful Markdown Parser](https://github.com/soasme/nim-markdown)
