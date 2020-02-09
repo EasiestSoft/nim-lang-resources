@@ -84,6 +84,16 @@ Libraries
 - Text Processing
   - [nim-markdown - Beautiful Markdown Parser](https://github.com/soasme/nim-markdown)
   - [nimquery - Nim library for querying HTML using CSS-selectors](https://github.com/GULPF/nimquery)
+  - [cello - library of succinct data structures, for string searching and other string operations](https://github.com/unicredit/cello)
+  - [docx - read pure text from docx](https://github.com/xflywind/docx)
+  - [strunicode - unicode string handling](https://github.com/nitely/nim-strunicode)
+  - [graphemes - grapheme aware string handling (Unicode tr29)](https://github.com/nitely/nim-graphemes)
+  - [alignment - library to align strings, The procedures consider multibyte strings](https://github.com/jiro4989/alignment)
+  - [rect - crop/paste rectangle text](https://github.com/jiro4989/rect)
+  - [cringify-text - converts your provided text into cRiiNgE mOdE](https://github.com/theAkito/cringify-text)
+  - [nim-espeak - Nim Espeak NG wrapper, for super easy Voice and Text-To-Speech](https://github.com/juancarlospaco/nim-espeak)
+  - [nim-tinyslation - Text string translation from free online crowdsourced API. Tinyslation a tiny translation](https://github.com/juancarlospaco/nim-tinyslation)
+  - [A Markov Text generator](https://github.com/amedlock/markov)
 
 - Video/Audio Processing
   - [Nimffmpeg - it's almost same with FFMpeg C APIs](https://github.com/mashingan/nimffmpeg)
