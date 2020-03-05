@@ -58,6 +58,11 @@ Articles
 - [Nim: Scripting ease in a compiled language - 2019-11](https://www.junglecoder.com/blog/nim-early-report)
 - [The Nim memory model - 2019-09](http://zevv.nl/nim-memory/)
 
+Video Tutorial
+---
+
+- [Making a WebSite with Nim 0: Introduction -  needless process](https://www.youtube.com/watch?v=ndzlVRWqT2E)
+
 Libraries
 -----------
 
@@ -106,6 +111,8 @@ Libraries
 
 - Find & Search
   - [ndf - Duplicate file finder](https://github.com/rustomax/ndf)
+  - [sequtils2 - additional functions for sequences](https://github.com/Michedev/sequtils2)
+  - [Loop Fusion - Iterate efficiently over a variadic number of containers](https://github.com/numforge/loop-fusion)
 
 - Languages
   - [min - tiny concatenative programming language and shell](https://github.com/h3rald/min)
