@@ -103,7 +103,7 @@ Libraries
 - Video/Audio Processing
   - [Nimffmpeg - it's almost same with FFMpeg C APIs](https://github.com/mashingan/nimffmpeg)
   - [Shuffle Recording - For language learning, shuffle silence-separated audio segments to create more challenging recordings](https://github.com/jdve/shuffle_recording)
-  - [nimBend - turn raw data into audio](https://github.com/jamesb93/nimBend)
+  - [mosh - turn raw data into audio](https://github.com/jamesb93/mosh)
   - [Split Video](https://github.com/kodkuce/SplitVideo-Nim)
 
 - Internet
