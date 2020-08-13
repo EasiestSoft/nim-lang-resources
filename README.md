@@ -18,6 +18,7 @@ Nim in the world
 Nim Official resources
 ---------
 
+  - [Nim Packages directory](https://nimble.directory/search)
   - [Nim Packages](https://github.com/nim-lang/packages)
   - [Index: Ctrl + F search proc](https://nim-lang.org/docs/theindex.html)
   - [Manual](https://nim-lang.org/docs/manual.html)
