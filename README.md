@@ -18,6 +18,7 @@ Nim in the world
 Nim Official resources
 ---------
 
+  - [Nim Packages](https://github.com/nim-lang/packages)
   - [Index: Ctrl + F search proc](https://nim-lang.org/docs/theindex.html)
   - [Manual](https://nim-lang.org/docs/manual.html)
   - [Standard library](https://nim-lang.org/docs/lib.html)
@@ -91,6 +92,7 @@ Libraries
   - [nimquery - Nim library for querying HTML using CSS-selectors](https://github.com/GULPF/nimquery)
   - [cello - library of succinct data structures, for string searching and other string operations](https://github.com/unicredit/cello)
   - [docx - read pure text from docx](https://github.com/xflywind/docx)
+  - [xlsx - Parse Xlsx](https://github.com/xflywind/xlsx)
   - [strunicode - unicode string handling](https://github.com/nitely/nim-strunicode)
   - [graphemes - grapheme aware string handling (Unicode tr29)](https://github.com/nitely/nim-graphemes)
   - [alignment - library to align strings, The procedures consider multibyte strings](https://github.com/jiro4989/alignment)
@@ -110,7 +112,7 @@ Libraries
   - [Whereami - console application to get your location using ipapi.co](https://github.com/corenting/whereami)
 
 - Find & Search
-  - [ndf - Duplicate file finder](https://github.com/rustomax/ndf)
+  - [ndf - Duplicate file finder (Not working on Windows)](https://github.com/rustomax/ndf)
   - [sequtils2 - additional functions for sequences](https://github.com/Michedev/sequtils2)
   - [Loop Fusion - Iterate efficiently over a variadic number of containers](https://github.com/numforge/loop-fusion)
 
