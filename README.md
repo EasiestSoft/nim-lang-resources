@@ -94,6 +94,7 @@ Libraries
   - [cello - library of succinct data structures, for string searching and other string operations](https://github.com/unicredit/cello)
   - [docx - read pure text from docx](https://github.com/xflywind/docx)
   - [xlsx - Parse Xlsx](https://github.com/xflywind/xlsx)
+  - [tsv2json - Turn TSV file or stream into JSON file or stream](https://github.com/hectormonacci/tsv2json)
   - [strunicode - unicode string handling](https://github.com/nitely/nim-strunicode)
   - [graphemes - grapheme aware string handling (Unicode tr29)](https://github.com/nitely/nim-graphemes)
   - [alignment - library to align strings, The procedures consider multibyte strings](https://github.com/jiro4989/alignment)
@@ -108,9 +109,10 @@ Libraries
   - [Shuffle Recording - For language learning, shuffle silence-separated audio segments to create more challenging recordings](https://github.com/jdve/shuffle_recording)
   - [mosh - turn raw data into audio](https://github.com/jamesb93/mosh)
   - [Split Video](https://github.com/kodkuce/SplitVideo-Nim)
-
+  - [NimCoon - command-line YouTube player and more](https://gitlab.com/njoseph/nimcoon)
 - Internet
   - [Whereami - console application to get your location using ipapi.co](https://github.com/corenting/whereami)
+  - [getmac - get the MAC address of an IP address on the local network](https://github.com/PMunch/getmac)
 
 - Find & Search
   - [ndf - Duplicate file finder (Not working on Windows)](https://github.com/rustomax/ndf)
