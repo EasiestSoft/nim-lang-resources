@@ -15,7 +15,7 @@ Nim in the world
 - [Nim Official](https://nim-lang.org/)
 - [Nim China](https://www.nim-cn.com/)
 
-Nim Official resources
+Nim resources
 ---------
 
   - [Nim Packages directory](https://nimble.directory/search)
@@ -26,6 +26,7 @@ Nim Official resources
   - [Forum](https://forum.nim-lang.org/)
   - [Nim Github](https://github.com/nim-lang/Nim)
   - [Curated Packages](https://github.com/nim-lang/Nim/wiki/Curated-Packages)
+  - [Awesome Nim](https://github.com/xflywind/awesome-nim)
   - [Recently updated github repositories](https://github.com/search?o=desc&q=nim&l=nim&s=updated&type=Repositories)
   - [Stars:>50 github repositories](https://github.com/search?q=stars%3A%3E50+language%3Anim&type=Repositories)
   - [Nim Reddit](https://www.reddit.com/r/nim/)
@@ -49,6 +50,7 @@ Tutorials
 Personal Blog/Site
 --------
 
+- [Araq's musings](https://nim-lang.org/araq/)
 - [Peter's DevLog](https://peterme.net/)
 - [moigagoo](https://moigagoo.svbtle.com/)
 - [HookRace (Not recently updated)](https://hookrace.net/)
@@ -63,6 +65,7 @@ Articles
 Video Tutorial
 ---
 
+- [Nim Official Channel](https://www.youtube.com/channel/UCDAYn_VFt0VisL5-1a5Dk7Q/videos)
 - [Making a WebSite with Nim 0: Introduction -  needless process](https://www.youtube.com/watch?v=ndzlVRWqT2E)
 
 Libraries
@@ -75,11 +78,13 @@ Libraries
   - [wNim - Best Win GUI Framework, Win only, VFL auto layout](https://github.com/khchen/wNim)
 
 - Image Processing
+  - [nim_qr - Create SVG and Raster Image files with QR-codes from strings](https://github.com/ThomasTJdev/nim_qr)
   - [Flippy - simple 2d image and drawing library](https://github.com/treeform/flippy)
   - [diffimg](https://github.com/SolitudeSF/diffimg)
   - [imageman - Image manipulation library](https://github.com/SolitudeSF/imageman)
   - [NimSvg - Nim-based DSL allowing to generate SVG files and GIF animations](https://github.com/bluenote10/NimSvg)
   - [Steganography_tool - hide any typoe of data into an image](https://github.com/EasiestSoft/steganography-software-free-download)
+  - [nimagehide - hiding messages or other files in images](https://github.com/MnlPhlp/nimagehide)
   - [stb_image-Nim - A Nim wrapper for the stb_image library](https://gitlab.com/define-private-public/stb_image-Nim)
   - [Norm - compute the norm of the difference between two images](https://github.com/jonasrauber/norm)
   - [nim-imghdr - determining the type of an image](https://github.com/achesak/nim-imghdr)
@@ -105,20 +110,27 @@ Libraries
   - [A Markov Text generator](https://github.com/amedlock/markov)
 
 - Video/Audio Processing
+  - [paramidi - making MIDI music](https://github.com/paranim/paramidi)
   - [Nimffmpeg - it's almost same with FFMpeg C APIs](https://github.com/mashingan/nimffmpeg)
   - [Shuffle Recording - For language learning, shuffle silence-separated audio segments to create more challenging recordings](https://github.com/jdve/shuffle_recording)
   - [mosh - turn raw data into audio](https://github.com/jamesb93/mosh)
   - [Split Video](https://github.com/kodkuce/SplitVideo-Nim)
   - [NimCoon - command-line YouTube player and more](https://gitlab.com/njoseph/nimcoon)
+
 - Internet
   - [Whereami - console application to get your location using ipapi.co](https://github.com/corenting/whereami)
   - [getmac - get the MAC address of an IP address on the local network](https://github.com/PMunch/getmac)
 
-- Find & Search
+- Find & Search & replace
   - [ndf - Duplicate file finder (Not working on Windows)](https://github.com/rustomax/ndf)
+  - [rena - tiny fire/directory renaming command](https://github.com/jiro4989/rena)
   - [sequtils2 - additional functions for sequences](https://github.com/Michedev/sequtils2)
   - [Loop Fusion - Iterate efficiently over a variadic number of containers](https://github.com/numforge/loop-fusion)
 
+- Website builder
+  - [gerbil - dynamic website generator](https://github.com/jasonprogrammer/gerbil)
+
 - Languages
   - [min - tiny concatenative programming language and shell](https://github.com/h3rald/min)
+  - [spry - Smalltalk and Rebol inspired language implemented as an AST interpreter in Nim](https://github.com/gokr/spry)
   - [Vaja-Lang- dynamic interpreted language inspired by Elixir, Lua, Python, Nim and Monkey](https://github.com/marteinn/Vaja-Lang)
