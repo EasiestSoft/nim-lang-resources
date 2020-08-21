@@ -126,9 +126,10 @@ Libraries
   - [Whereami - console application to get your location using ipapi.co](https://github.com/corenting/whereami)
   - [getmac - get the MAC address of an IP address on the local network](https://github.com/PMunch/getmac)
 
-- Find & Search & replace
+- Find & Search & replace & watch
   - [ndf - Duplicate file finder (Not working on Windows)](https://github.com/rustomax/ndf)
   - [rena - tiny fire/directory renaming command](https://github.com/jiro4989/rena)
+  - [nwatchdog - watch file change modified, deleted, created](https://github.com/zendbit/nim.nwatchdog)
   - [sequtils2 - additional functions for sequences](https://github.com/Michedev/sequtils2)
   - [Loop Fusion - Iterate efficiently over a variadic number of containers](https://github.com/numforge/loop-fusion)
 
