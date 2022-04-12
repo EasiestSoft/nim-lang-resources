@@ -135,6 +135,7 @@ Libraries
   - [Loop Fusion - Iterate efficiently over a variadic number of containers](https://github.com/numforge/loop-fusion)
 
 - Website builder
+  - [Nim Website Creator: does not support Markdown](https://github.com/ThomasTJdev/nim_websitecreator)
   - [gerbil - dynamic website generator，require NodeJS](https://github.com/jasonprogrammer/gerbil)
 
 - Languages
