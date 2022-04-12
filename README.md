@@ -43,6 +43,8 @@ Learn Coding from Snippets
 Tutorials
 ------
 
+- [Nim FAQ](https://internet-of-tomohiro.netlify.app/nim/faq.en.html)
+- [Computer Programming with the Nim Programming Language](https://ssalewski.de/nimprogramming.html)
 - [Official Tutorial](https://www.reddit.com/r/nim/)
 - [How I start](https://howistart.org/posts/nim/1/)
 - [Nim days - xmonader's journey using Nim and creating useful/practical things](https://xmonader.github.io/nimdays/)
