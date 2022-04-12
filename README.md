@@ -13,7 +13,6 @@ Nim in the world
 ----------
 
 - [Nim Official](https://nim-lang.org/)
-- [Nim China](https://www.nim-cn.com/)
 
 Nim resources
 ---------
@@ -136,7 +135,7 @@ Libraries
   - [Loop Fusion - Iterate efficiently over a variadic number of containers](https://github.com/numforge/loop-fusion)
 
 - Website builder
-  - [gerbil - dynamic website generator](https://github.com/jasonprogrammer/gerbil)
+  - [gerbil - dynamic website generator，require NodeJS](https://github.com/jasonprogrammer/gerbil)
 
 - Languages
   - [min - tiny concatenative programming language and shell](https://github.com/h3rald/min)
